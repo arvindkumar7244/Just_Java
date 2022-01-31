@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">रन जावा</string>
+    <string name="enter_your_name">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="quantity">मात्रा</string>
+    <string name="minus_sign">-</string>
+    <string name="initial_quantity">2</string>
+    <string name="plus_sign">+</string>
+    <string name="order">ऑर्डर</string>
+    <string name="lowest_quantity_limit_message">मात्रा 1 से कम नहीं हो सकती</string>
+    <string name="highest_quantity_limit_message">मात्रा 100 से अधिक नहीं हो सकती</string>
+    <string name="order_subject"><xliff:g example="Aarti" id="name">%s</xliff:g>के लिए सिर्फ जावा ऑर्डर</string>
+    <string name="unhandled_intent_message">कोई भी एप्लिकेशन इस क्रिया को संभाल नहीं सकता</string>
+    <string name="customer_name">"नाम: "<xliff:g example="Aarti" id="name">%s</xliff:g></string>
+    <string name="add_whipped_cream">"\nफेटी हुई मलाई डालें? "</string>
+    <string name="add_chocolate">"\nचॉकलेट डालें? "</string>
+    <string name="total_quantity">"\nमात्रा: "</string>
+    <string name="total">"\nकुल: "</string>
+    <string name="thank_you_message">\nधन्यवाद!</string>
+</resources>
